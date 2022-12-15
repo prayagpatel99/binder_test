@@ -1,4 +1,4 @@
 matplotlib
-pandas==1.5.2
-plotly==5.11.0
-requests==2.28.1
+pandas
+plotly
+requests
